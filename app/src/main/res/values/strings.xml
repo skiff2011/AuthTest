@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AuthTest</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="save">Save</string>
+    <string name="check">Check</string>
+    <string name="biometric_prompt_title">Biometric for test app</string>
+    <string name="biometric_not_set_up">Biometric not set up</string>
+    <string name="biometric_not_available">Biometric not available</string>
+    <string name="auth_success">Success auth</string>
+    <string name="auth_error">Auth error</string>
+    <string name="auth_failure">Auth failure</string>
+    <string name="error_wrong_value">Enter correct string</string>
+    <string name="user_saved">User have been saved</string>
+</resources>
